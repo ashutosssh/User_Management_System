@@ -83,9 +83,6 @@ user-management-system/
    - Include a role-based access control system (e.g., admin panel).
    - Integrate a password recovery system.
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 
 Developed by Ashutosh Rijal.
